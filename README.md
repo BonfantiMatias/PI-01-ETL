@@ -13,7 +13,7 @@ El proyecto consiste en generar un proceso de ETL con carga incremental apartir 
 ## Video : [LINK](https://youtu.be/uIaly-sMhIM)
 
 ## Arquitectura de Software
-![](images\Pipeline.png)
+![](https://github.com/BonfantiMatias/PI-01-ETL/blob/main/images/Pipeline.png)
 
 ## Infrastructura
 
