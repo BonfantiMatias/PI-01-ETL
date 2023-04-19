@@ -26,7 +26,7 @@ El proyecto simula una instalación de producción utilizando container de Docke
 
 Los puertos de acceso a cada servicio quedaron los defaults. Ej: **spark master:7077**, **postgres: 5432**
 
-## Levantar ambiente
+## Instalacion y ejecucion   
 
 Clonar el repositorio:
 
