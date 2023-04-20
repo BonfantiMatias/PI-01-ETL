@@ -5,7 +5,7 @@ El proyecto consiste en generar un proceso de ETL con carga incremental apartir 
 
 
 ## Objetivos:
-- Realizar el preceso de ETL
+- Realizar el proceso de ETL
 - Exportar los datos a Postgre
 - Verificar la carga con una query de SQL
 
