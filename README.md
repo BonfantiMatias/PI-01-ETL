@@ -24,9 +24,9 @@ El proyecto simula una instalación de producción utilizando container de Docke
 * Postgres:
 * [Superset](http://superset.incubator.apache.org): [Nuestro Dashboard](http://localhost:8088/)
 
-Los puertos de acceso a cada servicio quedaron los defaults. Ej: **spark master:7077**, **postgres: 5432**
+Puertos: **spark master:7077**, **postgres: 5432**
 
-## Instalacion y ejecucion   
+## Instalacion y ejecucion en consola de linux  
 
 Clonar el repositorio:
 
